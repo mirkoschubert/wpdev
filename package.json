@@ -1,0 +1,23 @@
+{
+  "name": "wpdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "bin/wpdev",
+  "keywords": [],
+  "author": "Mirko Schubert <office@mirkoschubert.de>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "execa": "^1.0.0",
+    "moment": "^2.23.0"
+  }
+}
