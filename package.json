@@ -19,6 +19,7 @@
     "commander": "^2.19.0",
     "execa": "^1.0.0",
     "moment": "^2.23.0",
+    "node-ssh": "^5.1.2",
     "readline-sync": "^1.4.9"
   }
 }
